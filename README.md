@@ -34,6 +34,7 @@ Example
  *  "email": "partial",
  *  "position": "partial"
  * })
+ */
 ```
 
 ## License
