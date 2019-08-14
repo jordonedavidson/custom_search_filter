@@ -12,7 +12,7 @@ No luck.
 
 Eventually I stumbled on a file written by the author of API Platform [Kévin Dunglas](https://dunglas.fr/) which did exactly what I needed. I grabbed the file, added it to my codebase and _voila_ it just worked.
 
-Fast forward a few months and I realised that my Stack Overflow question was still open. I decided to locate the link to that file and post it as the solution. Unfortunately I could not re-locate where I got the file from. Even the copyright notice in the file (which I had retained of course) did not lead me to it's location.
+Fast forward a few months and I realised that my Stack Overflow question was still open. I decided to locate the link to that file and post it as the solution. Unfortunately I could not re-locate where I got the file from. Even the copyright notice in the file (which I had retained of course) did not lead me to its location.
 
 I decided to reach out to M. Dunglas via email to relate this story and to ask for the location of the file. He responded to give me permission to post the file as the official solution to this specific use-case. 
 
@@ -25,7 +25,7 @@ This repository exists to do just that.
 
 Example
 
-```
+```php
 /**
  * @ApiFilter(CustomSearchFilter::class, properties={
  *  "status": "partial",
